@@ -125,8 +125,7 @@ main {
 }
 
 #projects li {
-  margin-bottom: 5px;
-  padding-bottom: 5px;
+  list-style-type: circle;
 }
 
 #projects li:last-child {
