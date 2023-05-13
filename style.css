@@ -124,8 +124,9 @@ main {
   padding: 0;
 }
 
-#projects li {
-
+#projects h4 + ul {
+    list-style: disc;
+    margin-left: 20px;
 }
 
 #projects li:last-child {
