@@ -1,127 +1,127 @@
 /* Basic styles for the body element */
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 /* Styles for the header element */
 header {
-  background-color: #f7f7f7;
-  border-bottom: 1px solid #ddd;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #ddd;
 }
 
 #intro img {
-  display: block;
-  margin: 0 auto;
-  max-width: 300px;
-  border-radius: 50%;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Styles for the navigation menu */
 nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
 }
 
 nav li {
-  margin-right: 20px;
+    margin-right: 20px;
 }
 
 nav a {
-  color: #333;
-  text-decoration: none;
-  padding: 10px;
+    color: #333;
+    text-decoration: none;
+    padding: 10px;
 }
 
 nav a:hover {
-  background-color: #333;
-  color: #fff;
+    background-color: #333;
+    color: #fff;
 }
 
 /* Styles for the main section */
 main {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 /* Styles for the introduction section */
 #intro {
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  background-color: #f7f7f7;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f7f7f7;
 }
 
 #intro h1 {
-  font-size: 3em;
-  margin-bottom: 20px;
+    font-size: 3em;
+    margin-bottom: 20px;
 }
 
 #intro h2 {
-  font-size: 1.5em;
-  color: #777;
-  margin-bottom: 50px;
+    font-size: 1.5em;
+    color: #777;
+    margin-bottom: 50px;
 }
 
 #intro p {
-  font-size: 1.2em;
-  margin-bottom: 30px;
+    font-size: 1.2em;
+    margin-bottom: 30px;
 }
 
 #intro button {
-  background-color: #88DFEF;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  font-size: 1.2em;
-  cursor: pointer;
+    background-color: #88DFEF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
 }
 
 #intro button:hover {
-  background-color: #fff;
-  color: #333;
+    background-color: #fff;
+    color: #333;
 }
 
 /* Styles for the about section */
 #about {
-  padding: 50px;
-  background-color: #fff;
+    padding: 50px;
+    background-color: #fff;
 }
 
 #about h2 {
-  font-size: 2em;
-  margin-bottom: 30px;
+    font-size: 2em;
+    margin-bottom: 30px;
 }
 
 #about p {
-  font-size: 1.2em;
-  line-height: 1.8;
+    font-size: 1.2em;
+    line-height: 1.8;
 }
 
 /* Styles for the projects section */
 #projects {
-  padding: 50px;
-  background-color: #f7f7f7;
+    padding: 50px;
+    background-color: #f7f7f7;
 }
 
 #projects h2 {
-  font-size: 2em;
-  margin-bottom: 30px;
-  border-bottom: 1px solid #ddd;
+    font-size: 2em;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
 }
 
 #projects ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 #projects h4 + ul {
@@ -137,15 +137,15 @@ main {
 
 
 #projects li:last-child {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 #projects a {
-  font-size: 1.2em;
-  color: #333;
-  text-decoration: none;
+    font-size: 1.2em;
+    color: #333;
+    text-decoration: none;
 }
 
 #projects a:hover {
-  color: #777;
+    color: #777;
 }
